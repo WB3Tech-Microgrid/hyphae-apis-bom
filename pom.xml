@@ -14,6 +14,14 @@
   <packaging>pom</packaging>
 
   <name>APIS BOM</name>
+  
+  <distributionManagement>
+   <repository>
+     <id>wb3tech-microgrid-hyphae-github</id>
+     <name>GitHub WB3Tech Microgrid Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/WB3Tech-Microgrid/hyphae-apis</url>
+   </repository>
+  </distributionManagement>
 
   <dependencyManagement>
     <dependencies>
