@@ -8,7 +8,7 @@
     <commons-io.version>2.4</commons-io.version>
   </properties>
 
-  <groupId>com.wb3tech.hyphae</groupId>
+  <groupId>com.wb3tech.hyphae.apis</groupId>
   <artifactId>apis-bom</artifactId>
   <version>3.0.0</version>
   <packaging>pom</packaging>
