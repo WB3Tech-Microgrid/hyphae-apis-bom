@@ -8,7 +8,7 @@
     <commons-io.version>2.4</commons-io.version>
   </properties>
 
-  <groupId>jp.co.sony.csl.dcoes.apis</groupId>
+  <groupId>com.wbe3tech.hyphae</groupId>
   <artifactId>apis-bom</artifactId>
   <version>3.0.0</version>
   <packaging>pom</packaging>
