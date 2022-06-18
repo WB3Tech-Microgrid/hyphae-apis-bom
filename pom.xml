@@ -19,7 +19,7 @@
    <repository>
      <id>wb3tech-microgrid-hyphae-github</id>
      <name>GitHub WB3Tech Microgrid Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/wb3tech-microgrid/hyphae-apis</url>
+     <url>https://maven.pkg.github.com/WB3tech-Microgrid/hyphae-apis-bom</url>
    </repository>
   </distributionManagement>
 
